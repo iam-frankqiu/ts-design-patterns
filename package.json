@@ -1,0 +1,24 @@
+{
+  "name": "ts-design-patterns",
+  "version": "1.0.0",
+  "description": "Some design patterns code implemented by Typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iam-frankqiu/ts-design-patterns.git"
+  },
+  "keywords": [
+    "ts",
+    "design-patterns",
+    "typescript"
+  ],
+  "author": "frankqiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iam-frankqiu/ts-design-patterns/issues"
+  },
+  "homepage": "https://github.com/iam-frankqiu/ts-design-patterns#readme"
+}
